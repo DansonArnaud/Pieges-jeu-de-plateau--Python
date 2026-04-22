@@ -9,6 +9,11 @@ Le jeu permet à plusieurs joueurs de s'affronter en déplaçant des tirettes po
 * Génération aléatoire du plateau
 * Système de victoire
   
-## 🛠️ Technologies
+## Technologies
 * Python
 * FLTK
+
+## Guide d’utilisation du programme
+* Télécharger les fichiers
+* Les mettre dans un même dossier 
+* Lancer le programme dans un IDE
